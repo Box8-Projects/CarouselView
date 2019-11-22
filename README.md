@@ -35,3 +35,6 @@ CarouselViewPager.Builder builder =
 carouselRecyclerView.config(builder);
 
 ```
+
+## Future Scope
+This library is made for infite views/scrolling of images. As of now there is a specified value of 500 images it would create. This can be made dynamic to show the images with auto scrolling.
