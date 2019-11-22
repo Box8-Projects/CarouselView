@@ -3,8 +3,8 @@
 The CarouselRecyclerView provides an easy way to display a list of images which shows a smooth carousel effect on scrolling. Features of this library includes -  
 *  Dynamic image loading from the internet
 *  Auto scrolling within fixed interval
-* Provides Infinite scrolling feature
-* Customisation for snapping scrolled image position (centre, start, end, etc)
+*  Provides Infinite scrolling feature
+*  Customisation for snapping scrolled image position (centre, start, end, etc)
 
 ## Implementation
 CarouselRecyclerView can be included in any given layout xml file using the following xml tag.
