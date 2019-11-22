@@ -40,4 +40,4 @@ carouselRecyclerView.config(builder);
 [![How it works](http://img.youtube.com/vi/ZdIXfvHQ94s/0.jpg)](http://www.youtube.com/watch?v=ZdIXfvHQ94s)
 
 ## Future Scope
-This library is made for infite views/scrolling of images. As of now there is a specified value of 500 images it would create. This can be made dynamic to show the images with auto scrolling.
+This library is made for infinite views/scrolling of images. As of now there is a specified value of 500 images it would create. This can be made dynamic to show the images with auto scrolling.
