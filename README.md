@@ -19,7 +19,7 @@ In your app level `build.gradle` file include following:
 ```
 implementation 'com.box8.libraryapplication:carouselrecyclerview:1.0.1'
 ```
-For latest versions of this library please follow this [Release notes](/release-notes).
+For latest versions of this library please follow this [Release notes](#release-notes).
 
 #### Include custom view into layout file
 `CarouselRecyclerView` can be included in any given layout xml file using the following xml tag.
